@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: b22d13b1152a4a84b816fbd8958e4f98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8564044641528750626
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_0
+  - first:
+      213: -2570923123575625725
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_0
+  - first:
+      213: -1852856739512839966
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_1
+  - first:
+      213: -3886173987080587912
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_2
+  - first:
+      213: -5164873116780139713
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_3
+  - first:
+      213: -5351070451465508599
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_4
+  - first:
+      213: 9009693205141706183
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_5
+  - first:
+      213: -5383977218461158045
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_6
+  - first:
+      213: -3440170066608001078
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_7
+  - first:
+      213: 7226888028896234117
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_8
+  - first:
+      213: 4163813652471414157
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_9
+  - first:
+      213: 4847070075823666157
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_10
+  - first:
+      213: -104763062795590035
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_11
+  - first:
+      213: 5757505653153015840
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_12
+  - first:
+      213: 5721076923692491486
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_13
+  - first:
+      213: 9045608842846724114
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_14
+  - first:
+      213: 4610712694972796978
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_15
+  - first:
+      213: 7934869659031095331
+    second: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 85
+        width: 613
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308ef6a5a0f325cd0800000000000000
+      internalID: -2570923123575625725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 764
+        width: 67
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e016adbc945946e0800000000000000
+      internalID: -1852856739512839966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_2
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 764
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b2bc3959811ac0800000000000000
+      internalID: -3886173987080587912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 764
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bea54d34fa258b0800000000000000
+      internalID: -5164873116780139713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 764
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092f4c86cd2db5b0800000000000000
+      internalID: -5351070451465508599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 598
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d8b31c3cd80d70800000000000000
+      internalID: 9009693205141706183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_6
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 598
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b3dece354845b0800000000000000
+      internalID: -5383977218461158045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_7
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 598
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfe5ec1d8f0240d0800000000000000
+      internalID: -3440170066608001078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_8
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 432
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a02e16f501b4460800000000000000
+      internalID: 7226888028896234117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 432
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dfa72c476d8c930800000000000000
+      internalID: 4163813652471414157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 432
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de335e69d80444340800000000000000
+      internalID: 4847070075823666157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 256
+        width: 79
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ac78ac8ecb8ef0800000000000000
+      internalID: -104763062795590035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_12
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 256
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282d7013e4c6ef40800000000000000
+      internalID: 5757505653153015840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 256
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed220698629556f40800000000000000
+      internalID: 5721076923692491486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 96
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e20f1155788d70800000000000000
+      internalID: 9045608842846724114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_15
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 90
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230dc3974ca8cff30800000000000000
+      internalID: 4610712694972796978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-sprite-video-games-2d-computer-graphics-blue-2-game-art-partners-5bd2f861cadb94.9155222115405528018309_16
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 96
+        width: 126
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c2950ae15e1e60800000000000000
+      internalID: 7934869659031095331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
